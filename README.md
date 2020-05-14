@@ -12,4 +12,4 @@ Petite encyclopédie Don't Starve qui répertorie une partie des mobs du jeu Don
 - [ ] Ajout des mobs restants (beaucoup de mobs ne sont pas répertoriés)
 
 ## Idée, idée de feature, bug?
-C'est ici : [here](https://github.com/d0tcom/RandomizeGradient/issues)
+C'est ici : [here](https://github.com/d0tcom/Don-t-Starve-Encyclopedia/issues)
