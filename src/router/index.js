@@ -20,7 +20,10 @@ Vue.use(VueRouter)
 
 const router = new VueRouter({
   mode: 'history',
-  base: process.env.BASE_URL,
+  base: process.env.BASE_URL, // process.env.BASE_URL,
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/don-t-starve-encyclopedia/'
+  : '/',
   routes
 })
 
